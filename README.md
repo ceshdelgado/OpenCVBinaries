@@ -6,6 +6,8 @@
 ###Main Modules
 - All modules included **opencv_viz**
 - Python 2 support
+- No CUDA support
+- **opencv_highgui** module compiled with QT 4.8.7
 
 ###Contrib Modules
 - bioinspired

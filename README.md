@@ -1,18 +1,18 @@
 #OpenCVBinaries
-####OpenCV Version : 3.1.0
+####OpenCV Version : 3.2.0
 ####This version is only for Windows. Compiled with Visual C++ 2015 64-bit
 
 #Compiled Modules
 ###Main Modules
 - All modules included **opencv_viz**
-- Python 2 support
-- Python 3 support
+- Java wrappers
+- Python 3.5 support
 - No CUDA support
-- **opencv_highgui** module compiled with QT 4.8.7
+- Compiled with Intel TBB(2017 u3)
 
 ###Contrib Modules
-- bioinspired
+- dnn (with Caffe)
 - face
-- text (with Tesseract support) Tesseract Version:3.05-dev and Leptonica:1.73
+- text (with Tesseract support) Tesseract Version:3.05
 - xfeatures2d
 - ximgproc
